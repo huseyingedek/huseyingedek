@@ -26,6 +26,7 @@ p align="left"> <a href="https://twitter.com/hus3yingedek" target="blank"><img s
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyingedek&show_icons=true&theme=tokyonight&title_color=ff4d4d&cache_seconds=1800&locale=tr&layout=compact" alt="huseyingedek" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyingedek&show_icons=true&locale=tr" alt="huseyingedek" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyingedek&show_icons=true&locale=tr" alt="huseyingedek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingedek&" alt="huseyingedek" /></p>
+
