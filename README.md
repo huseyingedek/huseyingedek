@@ -1,20 +1,23 @@
 # 👋 Merhaba! Ben Hüseyin
 
-Frontend developer olarak kariyerime devam ediyorum. 💻 Boş zamanlarımda kendimi geliştirmek için projeler geliştiriyorum.
+👋 Merhaba! Ben [Adın], bir frontend developer olarak kariyerime devam ediyorum. 💻 Boş zamanlarımda Node.js öğreniyor ve bireysel fullstack projeler geliştiriyorum. Kodlama ve yeni teknolojiler öğrenmek benim tutkum. 🌱
+
+Projelerim için aşağıdaki bağlantılara göz atabilirsiniz! 🚀
 
 ## 🚀 Projelerim
 
-- [Proje 1](link): Proje hakkında kısa bir açıklama.
-- [Proje 2](link): Proje hakkında kısa bir açıklama.
-- [Proje 3](link): Proje hakkında kısa bir açıklama.
+- [e-ticaret](huseyingedek.com): Proje hakkında kısa bir açıklama.
+- 
 
 ## 🌱 Öğreniyorum
 
+- React.js
+- Next.js
 - Node.js
-- [Başka teknolojiler burada]
+- Redux
+- Tailwind.css
 
 ## 📫 Bana Ulaşın
 
-- [LinkedIn Profiliniz](link)
-- [Twitter Profiliniz](link)
+- [LinkedIn Profiliniz](https://www.linkedin.com/in/h%C3%BCseyin-gedek-9419b2290/)
 
