@@ -5,12 +5,6 @@
     <img src="https://komarev.com/ghpvc/?username=huseyingedek&label=huseyingedek&color=0e75b6&style=flat" alt="huseyingedek" />
 </p>
 
-<p align="center"> 
-    <a href="https://twitter.com/hus3yingedek" target="blank">
-        <img src="https://img.shields.io/twitter/follow/hus3yingedek?logo=twitter&style=for-the-badge" alt="hus3yingedek" />
-    </a>
-</p>
-
 - 🔭 I am currently working on [e-commerce]([deneme])
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
