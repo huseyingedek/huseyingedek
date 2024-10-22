@@ -1,9 +1,6 @@
 <h1 align="center">💫 About Me:</h1>
 <h3 align="center">Hello, I’m Hüseyin. I am continuing my career as a front-end developer.</h3>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=huseyingedek&label=huseyingedek&color=0e75b6&style=flat" alt="huseyingedek" />
-</p>
 
 - 🔭 I am currently working on [e-commerce]([deneme])
 - 🌱 I am currently learning **Node.js**.
