@@ -7,7 +7,6 @@ Feel free to check out my projects at the links below! 🚀
 ## 🚀 My Projects
 
 - [e-ticaret](huseyingedek.com): I am still developing my individually created project.
-- 
 
 ## 🌱 I am learning.
 
