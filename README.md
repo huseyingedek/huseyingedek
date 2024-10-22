@@ -1,17 +1,17 @@
 <h1 align="center">Merhaba 👋, ben Hüseyin</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Merhaba, ben Hüseyin. Kariyerime ön uç geliştirici olarak devam ediyorum.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseyingedek&label=huseyingedek&color=0e75b6&style=flat" alt="huseyingedek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyingedek" alt="huseyingedek" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyingedek" alt="huseyingedek" /></a> </p> <
 
-<p align="left"> <a href="https://twitter.com/hus3yingedek" target="blank"><img src="https://img.shields.io/twitter/follow/hus3yingedek?logo=twitter&style=for-the-badge" alt="hus3yingedek" /></a> </p>
+p align="left"> <a href="https://twitter.com/hus3yingedek" target="blank"><img src="https://img.shields.io/twitter/follow/hus3yingedek?logo=twitter&style=for-the-badge" alt="hus3yingedek" /></a> </p>
 
 - 🔭 Şu anda [e-ticaret](huseyingedek.com) üzerinde çalışıyorum
 
 - 🌱 Şu anda **Node.js** öğreniyorum
 
-- 💬 Bana **react.js next.js tailwind.css** hakkında soru sor
+- 💬 Bana **react.js next.js** hakkında soru sor
 
 - 📫 Bana nasıl ulaşabilirsiniz **huseyinxgedek@gmail.com**
 
