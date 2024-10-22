@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Hüseyin
 
-<!--
-**huseyingedek/huseyingedek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer olarak kariyerime devam ediyorum. 💻 Boş zamanlarımda kendimi geliştirmek için projeler geliştiriyorum.
 
-Here are some ideas to get you started:
+## 🚀 Projelerim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Proje 1](link): Proje hakkında kısa bir açıklama.
+- [Proje 2](link): Proje hakkında kısa bir açıklama.
+- [Proje 3](link): Proje hakkında kısa bir açıklama.
+
+## 🌱 Öğreniyorum
+
+- Node.js
+- [Başka teknolojiler burada]
+
+## 📫 Bana Ulaşın
+
+- [LinkedIn Profiliniz](link)
+- [Twitter Profiliniz](link)
+
