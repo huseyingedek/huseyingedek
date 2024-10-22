@@ -22,7 +22,7 @@
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
 - 
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Social media:</h3>
 <p align="left">
     <a href="https://twitter.com/hus3yingedek" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hus3yingedek" height="30" width="40" />
