@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🔭 I am currently working on [e-ticaret]([/huseyingedek/e-ticaretFe])
+- 🔭 I am currently working on [e-ticaret]([/e-ticaretFe])
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
