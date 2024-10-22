@@ -6,12 +6,6 @@
 </p>
 
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=huseyingedek" alt="huseyingedek" />
-    </a>
-</p>
-
-<p align="center"> 
     <a href="https://twitter.com/hus3yingedek" target="blank">
         <img src="https://img.shields.io/twitter/follow/hus3yingedek?logo=twitter&style=for-the-badge" alt="hus3yingedek" />
     </a>
@@ -21,7 +15,7 @@
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
- 
+
 <h3 align="left">Social media:</h3>
 <p align="left">
     <a href="https://twitter.com/hus3yingedek" target="blank">
@@ -83,9 +77,3 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=huseyingedek&show_icons=true&theme=tokyonight&title_color=ff4d4d&cache_seconds=1800&locale=tr&layout=compact" alt="huseyingedek" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyingedek&show_icons=true&locale=tr" alt="huseyingedek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=huseyingedek&" alt="huseyingedek" /></p>
