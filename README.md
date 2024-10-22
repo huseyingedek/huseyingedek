@@ -21,7 +21,7 @@
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
-- 
+ 
 <h3 align="left">Social media:</h3>
 <p align="left">
     <a href="https://twitter.com/hus3yingedek" target="blank">
