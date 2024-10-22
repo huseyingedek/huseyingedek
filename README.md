@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🔭 I am currently working on [e-commerce]([])
+- 🔭 I am currently working on [e-commerce]([deneme])
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
