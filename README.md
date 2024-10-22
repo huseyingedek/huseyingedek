@@ -1,5 +1,5 @@
-<h1 align="center">Merhaba 👋, ben Hüseyin</h1>
-<h3 align="center">Merhaba, ben Hüseyin. Kariyerime ön uç geliştirici olarak devam ediyorum.</h3>
+<h1 align="center">💫 About Me:</h1>
+<h3 align="center">Hello, I’m Hüseyin. I am continuing my career as a front-end developer.</h3>
 
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=huseyingedek&label=huseyingedek&color=0e75b6&style=flat" alt="huseyingedek" />
@@ -17,7 +17,7 @@
     </a>
 </p>
 
-- 🔭 Şu anda [e-ticaret](huseyingedek.com) üzerinde çalışıyorum
+- 🔭 I am currently working on [e-ticaret](huseyingedek.com)
 - 🌱 Şu anda **Node.js** öğreniyorum
 - 💬 Bana **react.js next.js** hakkında soru sor
 - 📫 Bana nasıl ulaşabilirsiniz **huseyinxgedek@gmail.com**
