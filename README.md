@@ -1,8 +1,7 @@
 <h1 align="center">💫 About Me:</h1>
 <h3 align="center">Hello, I’m Hüseyin. I am continuing my career as a front-end developer.</h3>
 
-
-- 🔭 I am currently working on [e-commerce]([deneme])
+- 🔭 I am currently working on [e-commerce](https://huseyingedek.com)
 - 🌱 I am currently learning **Node.js**.
 - 💬 Feel free to ask me questions about **React.js** and **Next.js**!
 - 📫 You can reach me at **huseyinxgedek@gmail.com**.
